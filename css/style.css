@@ -67,47 +67,47 @@ nav .start-home, a:nth-child(1):hover~.animation {
 	left: 0;
 	background-color: #1abc9c;
 }
-nav .start-about, a:nth-child(2):hover~.animation {
+nav .start-GATOS, a:nth-child(2):hover~.animation {
 	width: 112px;
 	left: 112px;
 	background-color: #1abc9c;
 }
-nav .start-blog, a:nth-child(3):hover~.animation {
+nav .start-BATMAN, a:nth-child(3):hover~.animation {
 	width: 112px;
 	left: 224px;
 	background-color: #1abc9c;
 }
-nav .start-portefolio, a:nth-child(4):hover~.animation {
+nav .start-BILLS, a:nth-child(4):hover~.animation {
 	width: 112px;
 	left: 336px;
 	background-color: #1abc9c;
 }
-nav .start-contact, a:nth-child(5):hover~.animation {
+nav .start-TITO, a:nth-child(5):hover~.animation {
 	width: 112px;
 	left: 448px;
 	background-color: #1abc9c;
 }
-nav .start-contact, a:nth-child(6):hover~.animation {
+nav .start-PERROS, a:nth-child(6):hover~.animation {
 	width: 112px;
 	left: 560px;
 	background-color: #1abc9c;
 }
-nav .start-contact, a:nth-child(7):hover~.animation {
+nav .start-FIRULAIS, a:nth-child(7):hover~.animation {
 	width: 112px;
 	left: 672px;
 	background-color: #1abc9c;
 }
-nav .start-contact, a:nth-child(8):hover~.animation {
+nav .start-PRINCESA, a:nth-child(8):hover~.animation {
 	width: 112px;
 	left: 784px;
 	background-color: #1abc9c;
 }
-nav .start-contact, a:nth-child(9):hover~.animation {
+nav .start-HEINS, a:nth-child(9):hover~.animation {
 	width: 112px;
 	left: 896px;
 	background-color: #1abc9c;
 }
-nav .start-contact, a:nth-child(10):hover~.animation {
+nav .start-CONTACTO, a:nth-child(10):hover~.animation {
 	width: 112px;
 	left: 1008px;
 	background-color: #1abc9c;
@@ -140,4 +140,31 @@ p {
 
 span {
     color: #2BD6B4;
+}
+h3 {
+    position: CENTER;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    color: #ecf0f1;
+    font-family: 'Cherry Swash',cursive;
+    font-size: 20px;
+}
+blockquote {
+    position: left;
+    bottom: 20px;
+    width: 100%;
+    text-align: left;
+    color: #ecf0f1;
+    font-family: 'Cherry Swash',cursive;
+    font-size: 16px;
+}
+h2{
+    position: right;
+    bottom: 20px;
+    width: 100%;
+    text-align: right;
+    color: #ecf0f1;
+    font-family: 'Cherry Swash',cursive;
+    font-size: 16px;
 }
